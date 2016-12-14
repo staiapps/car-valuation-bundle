@@ -1,0 +1,4 @@
+services:
+    app.valuation.form:
+          class: Aiapps\ValuationFormBundle\Controller\ValuationController
+          arguments: ['@templating','@kernel']
