@@ -6,8 +6,8 @@ Bundle para Symonfy 2, el cual permite incluir un formulario para la realizació
 
 ```shell
  cd /PATH/TO/YOUR/PROJECT
- 
- composer require staiapps/car-valuation-bundle
+
+ $ composer require staiapps/car-valuation-bundle
 ```
 
 ### Paso 1.1: Añadir la siguiente línea al archivo: `app/AppKernel.php` 
