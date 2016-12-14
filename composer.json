@@ -1,0 +1,25 @@
+{
+  "name" : "staiapps/car-valuation-bundle",
+  "description" : "Bundle para Symonfy 2, el cual permite incluir un formulario de tasación de vehículos",
+  "type" : "symfony-bundle",
+  "authors" : [{
+    "name" : "staiapps",
+    "email" : "info@staiapps.com"
+  }],
+  "keywords" : [
+    "car valuation bundle"
+  ],
+  "license" : [
+    "MIT"
+  ],
+  "require" : {
+  },
+  "autoload" : {
+    "psr-0" : {
+      "Aiapps\\ValuationFormBundle" : ""
+    }
+  },
+  "target-dir" : "Aiapps/ValuationFormBundle",
+  "repositories" : [{
+  }]
+}
