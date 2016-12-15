@@ -1,4 +1,4 @@
-# car-valuation-bundle
+# tasador-de-coches
 Bundle para Symonfy 2, el cual permite incluir un formulario para la realización de tasaciones de vehículos.
 
 # INSTALACIÓN
@@ -7,7 +7,7 @@ Bundle para Symonfy 2, el cual permite incluir un formulario para la realizació
 ```shell
  cd /PATH/TO/YOUR/PROJECT
 
- $ composer require staiapps/car-valuation-bundle
+ $ composer require staiapps/tasador-de-coches
 ```
 
 ### Paso 1.1: Añadir la siguiente línea al archivo: `app/AppKernel.php` 
