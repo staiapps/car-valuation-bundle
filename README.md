@@ -185,6 +185,7 @@ Accedemos al **html** donde asignaremos el formulario y añadimos la siguiente l
 $ php app/console assets:install
 ```
 
+___
 
 # Demo de ejemplo:
 
