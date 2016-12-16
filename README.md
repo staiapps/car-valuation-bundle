@@ -43,7 +43,7 @@ aiapps_valuation_form:
        terms: 'http://terminos-condiciones'
 ```
 #### Descripción de parámetros
-* **apikey**: clave que te permite acceder a nuestro backend. Solicita tu clave: [Obtener ApiKey](http://staiapps.com/app/tasador-de-coches/)
+* **apikey**: clave que te permite acceder a nuestro backend. Solicita tu clave contactando con nuestro equipo: info@staiapps.com
 * **email**: email dónde llegarán las tasaciones que realizan los usuarios.
 * **terms**: debes indicar la ruta de página de tu web donde se deben mostrar los términos y condiciones de uso del tasador.
 
