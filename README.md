@@ -184,3 +184,22 @@ Accedemos al **html** donde asignaremos el formulario y añadimos la siguiente l
 ```shell
 $ php app/console assets:install
 ```
+
+
+# Demo de ejemplo:
+
+## Paso 1:
+
+[![N|screenshot1](https://raw.githubusercontent.com/staiapps/tasador-de-coches/master/assets/screenshot-1.png)](https://raw.githubusercontent.com/staiapps/tasador-de-coches/master/assets/screenshot-1.png)
+
+## Paso 2:
+
+[![N|screenshot2](https://raw.githubusercontent.com/staiapps/tasador-de-coches/master/assets/screenshot-2.png)](https://raw.githubusercontent.com/staiapps/tasador-de-coches/master/assets/screenshot-2.png)
+
+## Paso 3:
+
+[![N|screenshot3](https://raw.githubusercontent.com/staiapps/tasador-de-coches/master/assets/screenshot-3.png)](https://raw.githubusercontent.com/staiapps/tasador-de-coches/master/assets/screenshot-3.png)
+
+## Paso 4:
+
+[![N|screenshot4](https://raw.githubusercontent.com/staiapps/tasador-de-coches/master/assets/screenshot-4.png)](https://raw.githubusercontent.com/staiapps/tasador-de-coches/master/assets/screenshot-4.png)
