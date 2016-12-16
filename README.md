@@ -3,7 +3,7 @@ Bundle para Symonfy 2, el cual permite incluir un formulario para la realizació
 
 Nuestro Tasador de Coches está dirigido tanto a establecimientos que se dedican a la compra venta de vehículos de ocasión como a usuarios que están interesados en adquirir coches de segunda mano y quieran obtener una tasación real y ajustada. La solicitud de tasación realizada por el usuario devuelve un valor en función de los criterios de tasación adecuados a mercado.
 
-# INSTALACIÓN
+# Instalación
 ## Paso 1: Instalar usando [Composer](https://getcomposer.org/) 
 
 ```shell
